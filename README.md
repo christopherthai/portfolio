@@ -83,6 +83,6 @@ Welcome to my portfolio repository! This is a collection of my projects showcasi
 Feel free to reach out to me via email or connect with me on LinkedIn.
 
 - **Email:** [christopherthai.nyli@gmail.com](mailto:christopherthai.nyli@gmail.com)
-- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/christopher-thai/)
+- **LinkedIn:** [christopher-thai](https://www.linkedin.com/in/christopher-thai/)
 
 Thank you for visiting my portfolio repository! I hope you enjoy exploring my projects as much as I enjoyed working on them.

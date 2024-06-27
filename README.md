@@ -17,7 +17,7 @@ Welcome to my portfolio repository! This is a collection of my projects showcasi
 
 **Technologies Used:** React, Flask, SQLAlchemy, OpenAI API, Google API, Material-UI
 
-**Live Demo:** [ChefMate AI Demo](#)  
+**Live Demo:** [ChefMate AI Demo](https://www.loom.com/share/c7efc0edbe1e4608a72ddc42704e2b0b?sid=b7aa1d80-343c-408b-9e6b-cc5ae3abd733)  
 **Source Code:** [ChefMate AI Repository](#)
 
 ### 2. BiteReserve
@@ -26,7 +26,7 @@ Welcome to my portfolio repository! This is a collection of my projects showcasi
 
 **Technologies Used:** React, Flask, SQLAlchemy, Material-UI
 
-**Live Demo:** [BiteReserve Demo](#)  
+**Live Demo:** [BiteReserve Demo](https://www.loom.com/share/c6193b9425c44bdd88570f82be8c2544?sid=7347ff81-0f6c-4201-b349-a9202940ad83)  
 **Source Code:** [BiteReserve Repository](#)
 
 ### 3. Bite and Blog
@@ -35,7 +35,7 @@ Welcome to my portfolio repository! This is a collection of my projects showcasi
 
 **Technologies Used:** React, JSON
 
-**Live Demo:** [Bite and Blog Demo](#)  
+**Live Demo:** [Bite and Blog Demo](https://www.loom.com/share/05b7739feda44cfaae30379ae6d15c5d?sid=4422aff3-7dec-4e5f-9c9e-b0ecb0956b56)  
 **Source Code:** [Bite and Blog Repository](#)
 
 ### 4. QuizSphere

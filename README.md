@@ -18,7 +18,7 @@ Welcome to my portfolio repository! This is a collection of my projects showcasi
 **Technologies Used:** React, Flask, SQLAlchemy, OpenAI API, Google API, Material-UI
 
 **Live Demo:** [ChefMate AI Demo](https://www.loom.com/share/c7efc0edbe1e4608a72ddc42704e2b0b?sid=b7aa1d80-343c-408b-9e6b-cc5ae3abd733)  
-**Source Code:** [ChefMate AI Repository](#)
+**Source Code:** [ChefMate AI Repository](https://github.com/christopherthai/chefmate-ai)
 
 ### 2. BiteReserve
 

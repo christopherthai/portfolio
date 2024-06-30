@@ -59,12 +59,12 @@ Welcome to my portfolio repository! This is a collection of my projects showcasi
 ## Skills
 
 - **Programming & Development:** Python, JavaScript, React.js, Node.js, Flask
-- **Database Management:** PostgreSQL, SQLite, JSON data manipulation
-- **Engineering Principles:** Data structures, algorithms, OOP, software development
-- **Tools & Technologies:** Git, GitHub, Visual Studio, terminal operations
-- **Design & UX:** Figma, creating user stories
+- **Database Management:** PostgreSQL, SQLite
+- **Engineering Principles:** Data structures, Algorithms, OOP, Software Development
+- **Tools & Technologies:** Git, GitHub, Visual Studio, Terminal
+- **Design & UX:** Figma
 - **Web Technologies:** HTML, CSS, JavaScript
-- **Problem Solving:** Critical thinking, creative problem-solving, debugging
+- **Problem Solving:** Critical Thinking, Creative Problem-solving, Debugging
 
 ## Education
 

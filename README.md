@@ -64,7 +64,7 @@ Welcome to my portfolio repository! This is a collection of my projects showcasi
 - **Tools & Technologies:** Git, GitHub, Visual Studio, Terminal
 - **Design & UX:** Figma
 - **Web Technologies:** HTML, CSS, JavaScript
-- **Problem Solving:** Critical Thinking, Creative Problem-solving, Debugging
+- **Problem Solving:** Critical Thinking, Creative problem-solving, Debugging
 
 ## Education
 

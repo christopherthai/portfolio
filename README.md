@@ -61,7 +61,7 @@ Welcome to my portfolio repository! This is a collection of my projects showcasi
 - **Programming & Development:** Python, JavaScript, React.js, Node.js, Flask
 - **Database Management:** PostgreSQL, SQLite
 - **Engineering Principles:** Data structures, Algorithms, OOP, Software Development
-- **Tools & Technologies:** Git, GitHub, Visual Studio, Terminal
+- **Tools & Technologies:** Git, GitHub, Visual Studio, Terminal, Postman
 - **Design & UX:** Figma
 - **Web Technologies:** HTML, CSS, JavaScript
 - **Problem Solving:** Critical Thinking, Creative problem-solving, Debugging

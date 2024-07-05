@@ -58,7 +58,7 @@ Welcome to my portfolio repository! This is a collection of my projects showcasi
 
 ## Skills
 
-- **Programming & Development:** Python, JavaScript, React.js, Node.js, Flask
+- **Programming & Development:** Python, JavaScript, React.js, Node.js, Flask, Java
 - **Database Management:** PostgreSQL, SQLite
 - **Engineering Principles:** Data structures, Algorithms, OOP, Software Development
 - **Tools & Technologies:** Git, GitHub, Visual Studio, Terminal, Postman

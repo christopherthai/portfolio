@@ -15,7 +15,7 @@ Welcome to my portfolio repository! This is a collection of my projects showcasi
 
 **Description:** ChefMate AI simplifies culinary creativity by letting users discover community recipes, get AI-based dish suggestions, and manage recipe collections.
 
-**Technologies Used:** React, Flask, SQLAlchemy, OpenAI API, Google API, Material-UI
+**Technologies Used:** React, Flask, SQLAlchemy, OpenAI API, Google API, Material-UI, Python, JavaScript
 
 **Live Demo:** [ChefMate AI Demo](https://www.loom.com/share/c7efc0edbe1e4608a72ddc42704e2b0b?sid=b7aa1d80-343c-408b-9e6b-cc5ae3abd733)  
 **Source Code:** [ChefMate AI Repository](https://github.com/christopherthai/chefmate-ai)
@@ -24,7 +24,7 @@ Welcome to my portfolio repository! This is a collection of my projects showcasi
 
 **Description:** BiteReserve simplifies restaurant reservations by letting users browse, book, and manage their dining experiences online.
 
-**Technologies Used:** React, Flask, SQLAlchemy, Material-UI
+**Technologies Used:** React, Flask, SQLAlchemy, Material-UI, Python
 
 **Live Demo:** [BiteReserve Demo](https://www.loom.com/share/c6193b9425c44bdd88570f82be8c2544?sid=7347ff81-0f6c-4201-b349-a9202940ad83)  
 **Source Code:** [BiteReserve Repository](https://github.com/christopherthai/bite-reserve)

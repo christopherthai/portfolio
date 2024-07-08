@@ -45,7 +45,7 @@ Welcome to my portfolio repository! This is a collection of my projects showcasi
 **Technologies Used:** Python, pipenv
 
 **Live Demo:** [QuizSphere Demo](#)  
-**Source Code:** [QuizSphere Repository](#)
+**Source Code:** [QuizSphere Repository](https://github.com/christopherthai/quiz-sphere)
 
 ### 5. WeatherTune
 
@@ -54,7 +54,7 @@ Welcome to my portfolio repository! This is a collection of my projects showcasi
 **Technologies Used:** JSON server, JavaScript, HTML, CSS
 
 **Live Demo:** [WeatherTune Demo](#)  
-**Source Code:** [WeatherTune Repository](#)
+**Source Code:** [WeatherTune Repository](https://github.com/christopherthai/phase-1-final-project)
 
 ## Skills
 

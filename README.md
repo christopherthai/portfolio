@@ -51,7 +51,7 @@ Welcome to my portfolio repository! This is a collection of my projects showcasi
 
 **Description:** A web application that recommends songs based on the weather and location.
 
-**Technologies Used:** JSON server, JavaScript, HTML, CSS
+**Technologies Used:** JSON server, JavaScript, HTML, CSS, API
 
 **Live Demo:** [WeatherTune Demo](#)  
 **Source Code:** [WeatherTune Repository](https://github.com/christopherthai/phase-1-final-project)

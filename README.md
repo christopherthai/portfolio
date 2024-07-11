@@ -33,7 +33,7 @@ Welcome to my portfolio repository! This is a collection of my projects showcasi
 
 **Description:** An interactive public food blogging app where users can create, view, and comment on blog posts.
 
-**Technologies Used:** React, JSON, JavaScript, HTML, CSS
+**Technologies Used:** React, JSON, JavaScript, HTML, CSS, API
 
 **Live Demo:** [Bite and Blog Demo](https://www.loom.com/share/05b7739feda44cfaae30379ae6d15c5d?sid=4422aff3-7dec-4e5f-9c9e-b0ecb0956b56)  
 **Source Code:** [Bite and Blog Repository](https://github.com/christopherthai/bite-and-blog)
